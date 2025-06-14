@@ -9,7 +9,7 @@ export const AppContext = createContext();
 
 const AppContextProvider = ({ children }) => {
   const navigate = useNavigate();
-  const backendUrl = "http://localhost:5000";
+  const backendUrl = "https://expense-tracker-ob8q.onrender.com";
 
   // Initialize token from cookies
   const [token, setToken] = useState(() => Cookies.get("token") || "");
