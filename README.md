@@ -48,7 +48,7 @@ Check out the live app on Vercel:
 - 🧾 Detailed list of all entries
 - 🔄 Real-time state updates using Context API
 - 🎨 Clean, responsive UI with custom design
-- 🌙 Dark mode support *(if applicable)*
+
 
 ---
 
@@ -56,8 +56,8 @@ Check out the live app on Vercel:
 
 - **Frontend**: React, Tailwind CSS, Chart.js
 - **State Management**: React Context API
-- **Backend**: Express, Node.js, MongoDB *(optional)*
-- **Deployment**: Vercel
+- **Backend**: Express, Node.js, MongoDB 
+- **Deployment**: Vercel & Render
 
 ---
 
